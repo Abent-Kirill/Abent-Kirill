@@ -14,9 +14,6 @@
 - **Фреймворки и технологии:** ASP.NET Core, Entity Framework Core, Xamarin, WPF
 - **Базы данных:** Postgres
 
-## Stats
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/661f6b86243716955f017426?variant=light)](https://roadmap.sh)
-
 ## Pet-Проекты
 - [Assistant_Kira](https://github.com/Abent-Kirill/Assistant_Kira) - Автоматизация рутинных задач с множеством централизованных задач. Проект разрабатываеться в первую очередь для себя, не для использования для большой аудитории.
 - Сайт-визитка - мой сайт с некоторыми полезными фичами для организации коммуникации и интеграцией с асистентом.
